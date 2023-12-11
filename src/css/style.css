@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 800px;
+    height: 800px;
+    background-color: rgb(175, 171, 171);
+    background-size: cover;
+    padding: 60px;
+    gap: 20px;
+}
+
+.collapse_btn {
+    cursor: pointer;
+    padding: 10px;
+    margin: 30px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+
+.collapse_btn:hover {
+    background-color: red;
+}
+
+.collapse_cont {
+    height: 0;
+    overflow: hidden;
+    transition-property: height;
+    transition-duration: 2s;
+}
+
+.collapse_text {
+    margin: 30px;
+    padding: 10px;
+    display: block;
+    border: 2px solid black;
+    width: 500px;
+    background-color: rgb(228, 216, 216);
+}
+
+.callback_container {
+    width: 800px;
+    height: 400px;
+    background-color: rgb(175, 171, 171);
+    background-size: cover;
+}
+
+.callback_container_button {
+    width: 20px;
+    height: 20px;
+    padding-top: 350px;
+    padding-right: 750px;
+    border-color: red;
+}
