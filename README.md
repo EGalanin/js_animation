@@ -1,5 +1,8 @@
 # Домашнее задание к занятию "9. Анимации и CSS"
 
+[![Build status](https://ci.appveyor.com/api/projects/status/drcam4dlypw2hst9?svg=true)](https://ci.appveyor.com/project/EGalanin/js-animation)
+
+[Github Pages](https://egalanin.github.io/js_animation/ "Ссылка на Github Pages")
 
 ---
 
