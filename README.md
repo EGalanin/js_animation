@@ -1,10 +1,9 @@
 # Домашнее задание к занятию "9. Анимации и CSS"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/drcam4dlypw2hst9?svg=true)](https://ci.appveyor.com/project/EGalanin/js-animation)
+![CI](https://github.com/EGalanin/js_animation/actions/workflows/web.yml/badge.svg)
 
 [Github Pages](https://egalanin.github.io/js_animation/ "Ссылка на Github Pages")
 
-![CI](https://github.com/EGalanin/js_animation/actions/workflows/web.yml/badge.svg)
 ---
 
 ### Collapse
