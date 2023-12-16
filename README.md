@@ -4,6 +4,7 @@
 
 [Github Pages](https://egalanin.github.io/js_animation/ "Ссылка на Github Pages")
 
+![CI](https://github.com/EGalanin/js_animation/actions/workflows/web.yml/badge.svg)
 ---
 
 ### Collapse
